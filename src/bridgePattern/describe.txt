@@ -1,0 +1,9 @@
+桥接模式：抽象化和实现化解耦,通过提供一个桥接结构来实现二者的解耦。
+http://www.runoob.com/design-pattern/bridge-pattern.html
+
+extends 和 implements的区别：
+    extends是继承父类，只要那个类不是申明为final或者定义为abstract就能继承，
+    而implements可以实现多继承。
+
+
+    设计模式大约有三十四种方法，一天一种~
